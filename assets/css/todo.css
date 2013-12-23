@@ -1,0 +1,15 @@
+#topbar {
+	height: 20px;
+	width: 100%;
+	background-color: gray;
+	position: fixed;
+}
+
+#body {
+	height: 450px;
+}
+
+.menu-item {
+	font-family: Tahoma;
+	color: white;
+}
